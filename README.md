@@ -1,0 +1,1 @@
+The simple and easy project of Calculator was done using the library tkinter.Tkinter is the standard Python interface to the Tk GUI toolkit. It is widely used for creating graphical user interfaces (GUIs) in Python applications. Tkinter is available on most Unix platforms, including macOS, as well as on Windows systems
